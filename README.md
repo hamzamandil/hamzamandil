@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAMZA MANDIL</h1>
-<h3 align="center">A passionate frontend developer from MOROCCO</h3>
+<h3 align="center">A passionate full stack  web developer from MOROCCO</h3>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **react, redux**
 
